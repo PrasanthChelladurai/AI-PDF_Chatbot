@@ -1,2 +1,3 @@
-# AI-PDF_Chatbot
-AI-PDF_Chatbot
+# AI PDF Chatbot
+
+Upload a PDF and ask questions. Uses LangChain, Streamlit, and FAISS.
